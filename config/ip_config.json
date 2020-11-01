@@ -1,0 +1,8 @@
+[
+    {
+        "ip": "127.0.0.1",
+        "level": "production",
+        "env_name": "sample",
+        "ssh_confirm": "false"
+    }
+]
